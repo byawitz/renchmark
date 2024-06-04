@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+default-members = ["packages/renchmark", ]
+members = [
+    "packages/renchmark",
+    "packages/renchmark_utils",
+    "packages/renchmark_tracker",
+]
