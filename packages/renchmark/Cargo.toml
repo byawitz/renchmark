@@ -6,6 +6,5 @@ authors = ["Binyamin Yawitz"]
 license = "Apache-2.0"
 
 [dependencies]
-yaml-rust = "0.4.5"
 ssh = "0.1.4"
 renchmark_utils = { path = "../renchmark_utils" }

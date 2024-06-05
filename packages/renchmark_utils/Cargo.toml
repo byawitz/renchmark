@@ -4,3 +4,5 @@ version = "0.0.1"
 edition = "2021"
 
 [dependencies]
+serde_yaml = "0.9.33"
+serde = { version = "1.0.203", features = ["derive"] }

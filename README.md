@@ -47,7 +47,7 @@ globals:
   header_type:
     name: x-app-type
     value: production
-flows:
+Flows:
   base_url: @globals->url
   before_all:
     sign_up:
